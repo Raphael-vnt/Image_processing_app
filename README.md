@@ -32,3 +32,11 @@ Méthodes de retraitements via méthodes d'interpolations :
 - Rotation
 
 ![png](app_files/house_rotated.png)
+
+
+## Fractales : 
+
+Génération de fractales via calculs d'équations dans le plan complexe C
+
+
+
