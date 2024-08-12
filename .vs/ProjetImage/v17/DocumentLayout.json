@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66ECB4AD-3CB3-4774-9996-B02D18F3581E}|UnitTest\\UnitTest.csproj|c:\\users\\rapha\\desktop\\ia github\\projetimage\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66ECB4AD-3CB3-4774-9996-B02D18F3581E}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|c:\\users\\rapha\\desktop\\ia github\\projetimage\\projetimage\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|solutionrelative:projetimage\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|c:\\users\\rapha\\desktop\\ia github\\projetimage\\projetimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|solutionrelative:projetimage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|c:\\users\\rapha\\desktop\\ia github\\projetimage\\projetimage\\myimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|solutionrelative:projetimage\\myimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|c:\\users\\rapha\\desktop\\ia github\\projetimage\\projetimage\\interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|solutionrelative:projetimage\\interface.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|c:\\users\\rapha\\desktop\\ia github\\projetimage\\projetimage\\traitement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B761C1A6-3EC7-4DD0-B721-3A5AE5F080FC}|ProjetImage\\ProjetImage.csproj|solutionrelative:projetimage\\traitement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:54:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetImage\\Program.cs",
+              "ToolTip": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Program.cs",
+              "RelativeToolTip": "ProjetImage\\Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAiwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:53:07.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Interface.cs",
+              "RelativeDocumentMoniker": "ProjetImage\\Interface.cs",
+              "ToolTip": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Interface.cs",
+              "RelativeToolTip": "ProjetImage\\Interface.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:52:54.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyImage.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\MyImage.cs",
+              "RelativeDocumentMoniker": "ProjetImage\\MyImage.cs",
+              "ToolTip": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\MyImage.cs",
+              "RelativeToolTip": "ProjetImage\\MyImage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:52:40.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Interface.Designer.cs",
+              "RelativeDocumentMoniker": "ProjetImage\\Interface.Designer.cs",
+              "ToolTip": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Interface.Designer.cs",
+              "RelativeToolTip": "ProjetImage\\Interface.Designer.cs",
+              "ViewState": "AQIAAFcCAAAAAAAAAAAAAFcCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:52:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Traitement.cs",
+              "DocumentMoniker": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Traitement.cs",
+              "RelativeDocumentMoniker": "ProjetImage\\Traitement.cs",
+              "ToolTip": "C:\\Users\\rapha\\Desktop\\ia github\\ProjetImage\\ProjetImage\\Traitement.cs",
+              "RelativeToolTip": "ProjetImage\\Traitement.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAiwMMAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T11:51:32.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe.config
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\bin\Debug\ProjetImage.pdb
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csprojResolveAssemblyReference.cache
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.exe
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.pdb
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Interface.resources
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Properties.Resources.resources
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe.config
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\bin\Debug\ProjetImage.pdb
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csprojAssemblyReference.cache
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Interface.resources
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Properties.Resources.resources
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.GenerateResource.cache
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.exe
+C:\Users\rapha\source\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.pdb
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe.config
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\bin\Debug\ProjetImage.pdb
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.AssemblyReference.cache
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Interface.resources
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Properties.Resources.resources
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.GenerateResource.cache
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.CoreCompileInputs.cache
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.exe
+E:\Restore Ancien PC\A3\repos\INFO_A2\ProjetImage\ProjetImage\obj\Debug\ProjetImage.pdb
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe.config
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\bin\Debug\ProjetImage.exe
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\bin\Debug\ProjetImage.pdb
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Interface.resources
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.Properties.Resources.resources
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.GenerateResource.cache
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.exe
+C:\Users\rapha\Desktop\ia github\ProjetImage\ProjetImage\obj\Debug\ProjetImage.pdb
