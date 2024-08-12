@@ -1,6 +1,10 @@
 # Image_processing_app
 
 ## Abstrait
+
+Developpement d'une application de traitement d'image sous C# via le framework Windows Forms. Programmation orientée objet et implémentation de features et choix interactifs. 
+
+
 ![png](app_files/presentation_appli.png)
 
 
