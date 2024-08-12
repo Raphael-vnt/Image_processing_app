@@ -36,7 +36,23 @@ Méthodes de retraitements via méthodes d'interpolations :
 
 ## Fractales : 
 
-Génération de fractales via calculs d'équations dans le plan complexe C
+Génération de fractales via résolution d'équations dans le plan complexe C
+
+![png](app_files/true_fractale.png)
+
+
+## Créations originales : 
+
+- Steganographies : encoding et decoding d'images
+- Fondu
+- Effets "glitch"
+- Histogramme RGB
+- ...
+
+
+![png](app_files/fondu.bmp)
+![png](app_files/glitched_v2.bmp)
+
 
 
 
